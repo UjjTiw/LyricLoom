@@ -1,4 +1,4 @@
-# songLLM
+# LyricLoom
 Turn your promts to beautifully created songs. <br/>
 ## Instructions
 Firstly, download all the files locally, using `git clone https://github.com/ishan121028/songLLM.git`<br/>
