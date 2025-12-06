@@ -1,7 +1,7 @@
 # LyricLoom
 Turn your promts to beautifully created songs. <br/>
 ## Instructions
-Firstly, download all the files locally, using `[https://github.com/UjjTiw/LyricLoom.git](https://github.com/UjjTiw/LyricLoom.git)`<br/>
+Firstly, download all the files locally, using `https://github.com/UjjTiw/LyricLoom.git`<br/>
 Use this command in the directory to download all the requirements of the system `pip install -r requirements.txt`<br/>
 Then initialize the submodule by this command `git submodule init` <br/>
 Also use this command to update the submodules from the remote `git submodule update --force --recursive --init --remote`<br/>
